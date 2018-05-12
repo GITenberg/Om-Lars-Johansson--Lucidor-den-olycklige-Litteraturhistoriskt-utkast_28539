@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '33396'
     url: http://www.gutenberg.org/2009/agents/33396
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28539#Om-Lars-Johansson--Lucidor-den-olycklige-Litteraturhistoriskt-utkast
 gutenberg_issued: '2009-04-10'
 gutenberg_type: Text
 identifiers:
